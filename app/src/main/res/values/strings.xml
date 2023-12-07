@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VehicleVaultSystem</string>
+    <string name="modelo">Modelo:</string>
+    <string name="preco">Preço (R$):</string>
+    <string name="ano">Ano:</string>
+    <string name="km">Quilômetros Rodados:</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+
+</resources>
